@@ -7,6 +7,7 @@ function Personal() {
         let num = document.getElementById('num').value;
         let email = document.getElementById('email').value;
         let dob = document.getElementById('dob').value;
+        let state = document.getElementById('state').value;
         alert("Hai " + name + " have been registered");
     }
     return (
